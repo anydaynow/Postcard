@@ -32,6 +32,8 @@ class ViewController: UIViewController {
         
         // This line of code updates the 'Hidden' attribute of the variable messageLabel
         
+        // Adding a comment here to force a new commit in GitHub
+        
        messageLabel.hidden = false
     
         messageLabel.text = enterMessageTextField.text
